@@ -2,7 +2,7 @@
 title: "A comet's tale"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-12-paper-ACometsTale-number-1
+permalink: /publication/A_Comets_Tale
 excerpt: ''
 date: 2023-12-01
 venue: 'Astronomy & Geophysics'
