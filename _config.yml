@@ -22,7 +22,7 @@ repository               : "SarahRWatson/SarahRWatson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Photo.jpg"
+  avatar           : "Photo.jpg"
   name             : "Sarah Watson"
   pronouns         : "she/her"  
   bio              : "Space Weather Postdoctoral Researcher"
