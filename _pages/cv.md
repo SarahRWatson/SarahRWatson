@@ -53,14 +53,6 @@ Work experience
 * Python and MatLab used for data analysis, visualisation and scientific computation, writing codes from scratch and implementing other pre-used codes.
 * Produced content for a scientific paper to be published, presenting project and results to other scientists in seminars, writing regular progress reports.
 * Attended regular meetings both internally and externally to discuss results and key findings from analysis with other scientists.
-
-Organisation
-======
-
-* Organiser of the Space and Atmospheric Electricity (SPATE) research group, arranging internal and external speakers and social events -- *April 2023 to April 2025*
-* Organised departmental ball, raising £1500 for charity -- *June 2024*
-* PhD cohort representative, reporting feedback to the board of directors -- *2022 to 2026*
-* Conference Organiser for the Department of Meteorology, University of Reading, 2024
   
 Skills
 ======
@@ -72,7 +64,15 @@ Skills
 Outreach
 ======
 * Mission Astro Comet Outreach Kit-This involved recording an interview as a STEM role model which would be included in one of Mission Astro's mosaic kits on the theme of comets
+* BBC Radio Berkshire Interview-Provided a 15 minute live interview on comets and solar wind
 * Primary School Class Lesson-Provided a lesson on Sun and Comet themed science for a year 5 class. Including solar telescope observing, Sun and Comet themed crafts and science basics on the Sun and Comets 
+
+Organisation
+======
+* Organiser of the Space and Atmospheric Electricity (SPATE) research group, arranging internal and external speakers and social events -- *April 2023 to April 2025*
+* Organised departmental ball, raising £1500 for charity -- *June 2024*
+* PhD cohort representative, reporting feedback to the board of directors -- *2022 to 2026*
+* Conference Organiser for the Department of Meteorology, University of Reading, 2024
 
 Training and Courses
 ======
