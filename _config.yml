@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 #site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Sarah Watson"
+title                    : "Dr Sarah Watson"
 title_separator          : "-"
-name                     : &name "Sarah Watson"
+name                     : &name "Dr Sarah Watson"
 description              : &description "Description"  
 url                      : https://SarahRWatson.github.io # the base hostname & protocol for your site e.g. "https://SarahRWatson.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "SarahRWatson/SarahRWatson.github.io"
 author:
   # Biographic information
   avatar           : "Photo.jpg"
-  name             : "Sarah Watson"
+  name             : "Dr Sarah Watson"
   pronouns         : "she/her"  
   bio              : "Space Weather Postdoctoral Researcher"
   location         : #"Earth"
