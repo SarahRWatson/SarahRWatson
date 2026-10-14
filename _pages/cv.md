@@ -54,7 +54,8 @@ Work experience
 * Produced content for a scientific paper to be published, presenting project and results to other scientists in seminars, writing regular progress reports.
 * Attended regular meetings both internally and externally to discuss results and key findings from analysis with other scientists.
 
-**Organisation**
+Organisation
+======
 
 * Organiser of the Space and Atmospheric Electricity (SPATE) research group, arranging internal and external speakers and social events -- *April 2023 to April 2025*
 * Organised departmental ball, raising £1500 for charity -- *June 2024*
@@ -67,6 +68,11 @@ Skills
 * Applied Data Handling Skills including data visualisation, handling large complex datasets, citizen science data preparation and image analysis
 * Award Winning Verbal and Written Science Communicator with a track record of publishing in respected journals and presenting at national and international conferences
 * Experienced Coding and Computing Skills with proficiency in Python, Linux, Latex, MS Office
+
+Outreach
+======
+* Mission Astro Comet Outreach Kit-This involved recording an interview as a STEM role model which would be included in one of Mission Astro's mosaic kits on the theme of comets
+* Primary School Class Lesson-Provided a lesson on Sun and Comet themed science for a year 5 class. Including solar telescope observing, Sun and Comet themed crafts and science basics on the Sun and Comets 
 
 Training and Courses
 ======
