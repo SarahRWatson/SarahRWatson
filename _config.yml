@@ -37,7 +37,7 @@ author:
   googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : #"https://orcid.org/0009-0004-6566-6281"
+  orcid            : "https://orcid.org/0009-0004-6566-6281"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : #"sarahrosewatson.bsky.social" 
+  bluesky          : "sarahrosewatson.bsky.social" 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # "https://www.linkedin.com/in/sarah-watson-6b246818b/"
+  linkedin         : "https://www.linkedin.com/in/sarah-watson-6b246818b/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
